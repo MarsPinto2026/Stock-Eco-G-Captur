@@ -1,0 +1,1 @@
+const vehicles=[{modelo:"Captur Techno Eco-G 120",cor:"Branco / Preto",pcm:"25.372 €",chassis:"EXEMPLO001"},{modelo:"Captur Techno Eco-G 120",cor:"Azul / Preto",pcm:"25.372 €",chassis:"EXEMPLO002"},{modelo:"Captur Techno Eco-G 120",cor:"Vermelho / Preto",pcm:"25.372 €",chassis:"EXEMPLO003"}];
